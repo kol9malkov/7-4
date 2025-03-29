@@ -63,6 +63,13 @@ h1 {
     position: relative;
 }
 
+.img-new {
+    position: absolute;
+    display: inline-block;
+    right: 20px;
+    top: 40px;
+}
+
 .article-but {
     text-decoration: none;
     background-color: #133aac;
